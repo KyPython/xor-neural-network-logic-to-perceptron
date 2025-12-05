@@ -40,3 +40,8 @@ Truth table of `XOR_OUT` matches XOR: `0, 1, 1, 0`.
 
 The same structure is implemented as a 2‑layer perceptron network:
 
+## CircuitVerse Circuit
+
+XOR implemented in CircuitVerse:  
+https://circuitverse.org/users/320773/projects/xor-neural-network
+
